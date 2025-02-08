@@ -6,6 +6,11 @@
   },
   "imports": {
     "@deno/vite-plugin": "npm:@deno/vite-plugin@^1.0.0",
+    "@tiptap/extension-color": "npm:@tiptap/extension-color@^2.11.5",
+    "@tiptap/extension-list-item": "npm:@tiptap/extension-list-item@^2.11.5",
+    "@tiptap/extension-text-style": "npm:@tiptap/extension-text-style@^2.11.5",
+    "@tiptap/react": "npm:@tiptap/react@^2.11.5",
+    "@tiptap/starter-kit": "npm:@tiptap/starter-kit@^2.11.5",
     "@types/react": "npm:@types/react@^19.0.8",
     "@vitejs/plugin-react": "npm:@vitejs/plugin-react@^4.3.3",
     "react": "npm:react@^19.0.0",
