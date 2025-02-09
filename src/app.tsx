@@ -1,5 +1,5 @@
 import Editor from "./editor.tsx";
-import "./global.css";
+import "./globals.css";
 
 function App() {
   return (
